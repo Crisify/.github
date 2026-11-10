@@ -9,9 +9,9 @@
   <a href="https://crisify.com/contact"><img src="https://img.shields.io/badge/Start_a_project-58a6ff?style=for-the-badge&logo=maildotru&logoColor=0a0b0d" alt="Start a project"></a>
 </p>
 
-**Crisify** is a software studio built around one senior engineer, [Cristian Ionaș](https://github.com/crisionas),
-with a trusted network for overflow. It builds and rescues the backend systems behind travel, insurance and
-enterprise platforms — and the React or Angular UI on top of them.
+**Crisify** is a software studio of senior engineers, founded by [Cristian Ionaș](https://github.com/crisionas).
+We build and rescue the backend systems behind travel, insurance and enterprise platforms — and the React or
+Angular UI on top of them.
 
 ## 🛠️ How we work
 
@@ -23,7 +23,7 @@ enterprise platforms — and the React or Angular UI on top of them.
     </td>
     <td width="33%" valign="top">
       <h3>🧩 Embedded</h3>
-      A senior engineer inside your team for a fixed term — shipping features, migrations and the infrastructure work nobody gets to.
+      Senior engineers inside your team for a fixed term — shipping features, migrations and the infrastructure work nobody gets to.
     </td>
     <td width="33%" valign="top">
       <h3>🧭 Advisory</h3>
