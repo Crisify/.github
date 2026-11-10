@@ -6,6 +6,7 @@
 <p align="center">
   <a href="https://crisify.com"><img src="https://img.shields.io/badge/crisify.com-0a0b0d?style=for-the-badge&logo=googlechrome&logoColor=58a6ff" alt="crisify.com"></a>
   <a href="https://crisify.com/work"><img src="https://img.shields.io/badge/Case_studies-0a0b0d?style=for-the-badge&logo=bookstack&logoColor=58a6ff" alt="Case studies"></a>
+  <a href="tel:+40757971210"><img src="https://img.shields.io/badge/%2B40_757_971_210-0a0b0d?style=for-the-badge&logo=whatsapp&logoColor=58a6ff" alt="Phone: +40 757 971 210"></a>
   <a href="https://crisify.com/contact"><img src="https://img.shields.io/badge/Start_a_project-58a6ff?style=for-the-badge&logo=maildotru&logoColor=0a0b0d" alt="Start a project"></a>
 </p>
 
@@ -47,4 +48,4 @@ Angular UI on top of them.
   <img src="https://skillicons.dev/icons?i=cs,dotnet,react,angular,ts,kafka,rabbitmq,postgres,redis,aws,azure,docker,kubernetes,terraform&theme=dark&perline=14" alt="C#, .NET, React, Angular, TypeScript, Kafka, RabbitMQ, PostgreSQL, Redis, AWS, Azure, Docker, Kubernetes, Terraform">
 </p>
 
-<p align="center"><sub>B2B · fully remote · EU &amp; UK clients · <a href="mailto:cristian@crisify.com">cristian@crisify.com</a></sub></p>
+<p align="center"><sub>B2B · fully remote · EU &amp; UK clients · <a href="mailto:cristian@crisify.com">cristian@crisify.com</a> · <a href="tel:+40757971210">+40 757 971 210</a></sub></p>
