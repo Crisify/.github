@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/crisify-banner-dark.svg">
-  <img alt="Crisify — software studio for enterprise .NET" src="assets/crisify-banner-light.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/crisify-studio-dark.svg">
+  <img alt="Crisify — software studio for backend, cloud and data" src="assets/crisify-studio-light.svg" width="100%">
 </picture>
 
 <p align="center">
@@ -11,8 +11,8 @@
 </p>
 
 **Crisify** is a software studio of senior engineers, founded by [Cristian Ionaș](https://github.com/crisionas).
-We build and rescue the backend systems behind travel, insurance and enterprise platforms — and the React or
-Angular UI on top of them.
+We build and rescue the backend, cloud and data systems behind travel, insurance and enterprise platforms — in
+.NET, Python and TypeScript — and the React or Angular UI on top of them.
 
 ## 🛠️ How we work
 
@@ -20,7 +20,7 @@ Angular UI on top of them.
   <tr>
     <td width="33%" valign="top">
       <h3>🔍 Audits</h3>
-      Architecture, performance and resilience review of a .NET platform. You get a ranked list of what to fix, with the numbers behind it.
+      Architecture, performance, cost and resilience review of a backend platform. You get a ranked list of what to fix, with the numbers behind it.
     </td>
     <td width="33%" valign="top">
       <h3>🧩 Embedded</h3>
@@ -45,7 +45,7 @@ Angular UI on top of them.
 ## 🧰 What we build with
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,react,angular,ts,kafka,rabbitmq,postgres,redis,aws,azure,docker,kubernetes,terraform&theme=dark&perline=14" alt="C#, .NET, React, Angular, TypeScript, Kafka, RabbitMQ, PostgreSQL, Redis, AWS, Azure, Docker, Kubernetes, Terraform">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,py,ts,react,angular,kafka,rabbitmq,postgres,redis,aws,azure,docker,kubernetes,terraform&theme=dark&perline=15" alt="C#, .NET, Python, TypeScript, React, Angular, Kafka, RabbitMQ, PostgreSQL, Redis, AWS, Azure, Docker, Kubernetes, Terraform">
 </p>
 
 <p align="center"><sub>B2B · fully remote · EU &amp; UK clients · <a href="mailto:cristian@crisify.com">cristian@crisify.com</a> · <a href="tel:+40757971210">+40 757 971 210</a></sub></p>
